@@ -12,7 +12,7 @@
     "description": "A sample Viral 50 USA music chart with track positions and artists"
   },
    "Dogs": {
-    "file": "data/dogs.csv",
+    "file": "data/Dogs.csv",
     "description": "dog breeds, origins, temperaments, life spans, weights, and images"
   }
 }
